@@ -17,8 +17,11 @@ Los pacientes pueden sentir pena o incomodida al expresarce con el medico
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  
 Automatizar los patrones repetitivos en las cosultas medicas como si se es alergico a algo, el peso etc
+
 Recomendaciones claras, personalizadas y precisas segun el paciente mediante la recopilacion de datos que suele hacerse
+
 Minimizar tiempo de atencion de 15 dias en promedio a inmediata
+
 Aplicar filtros donde los especialistas por medio de la informacion aportada por la IA puedan tomar decisiones mas precisas y acertadas
 
 **Descripción de la solución IA:**  
@@ -41,9 +44,13 @@ Aplicar filtros donde los especialistas por medio de la informacion aportada por
 
 - **Integración en el flujo:**
   El sistema recibe la entrada del usuario.
+  
   La IA dependiendo de la entrada del usuario generara preguntas profundas para asi recopilar datos mas significativos
+  
   La IA fomentara una comunicacion y un ambiente comodo donde el paciente se pueda expresar de manera segura, comoda y tranquila
+  
   La IA interpreta la intención y genera una respuesta o acción automática.
+  
   Intervención humana solo en casos complejos.
 
 **Beneficios esperados:**  
