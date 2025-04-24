@@ -27,12 +27,15 @@ Aplicar filtros donde los especialistas por medio de la informacion aportada por
   **Procesamiento del Lenguaje Natural (PLN):**
   para analizar grandes volúmenes de texto no estructurado, como historias clínicas, notas de enfermería, resultados de laboratorio y
   literatura científica, para extraer información clave como síntomas, diagnósticos, tratamientos, medicamentos y resultados.
+  
   **Aprendizaje Automático (Machine Learning):**
   para realizar análisis predictivo estos modelos de aprendizaje automático pueden analizar grandes conjuntos de datos médicos para identificar
   patrones y predecir riesgos de enfermedades, resultados de tratamientos o readmisiones hospitalarias.
+  
   **Reconocimiento de Voz y Transcripción Médica:**
   para la captura de datos en tiempo real estos sistemas de reconocimiento de voz pueden transcribir las conversaciones o las notas clínicas habladas directamente
   en texto, lo que ahorra tiempo y reduce errores de transcripción manual.
+  
   **Análisis de imágenes médicas:**
   La IA puede analizar imágenes como radiografías, resonancias magnéticas, tomografías computarizadas y fotografías de lesiones para identificar patrones, anomalías y realizar mediciones precisas.
 
