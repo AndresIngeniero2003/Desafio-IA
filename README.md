@@ -5,8 +5,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**  
-Los diagnosticos medicos en las citas presenciales cuando vas al medico suelen seguir los mismo patrones desde hace mucho tiempo ejemplo: eres alergico a algun medicamento, toma de peso, toma de temperatura, ritmo cardiaco entre 
-otros procesos generales que siempre se realizan en una consulta. Es decir se siguen un patron comun y dependiendo de ese patron y segun como se sienta el paciente se le da un diagnostico
+Los diagnosticos medicos en las citas presenciales cuando vas al medico suelen seguir los mismo patrones desde hace mucho tiempo ejemplo: eres alergico a algun medicamento, toma de peso, toma de temperatura, ritmo cardiaco entre otros procesos generales que siempre se realizan en una consulta. Es decir se siguen un patron comun y dependiendo de ese patron y segun como se sienta el paciente se le da un diagnostico
 
 **Problemas o limitaciones del método tradicional:**  
 El diagnostico no siempre es acertado 
